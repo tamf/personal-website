@@ -2,7 +2,7 @@
 
 This is a simple, static, personal website I made which mostly serves as a resume. 
 
-![image info](website.png)
+<img src="website.png" width="512">
 
 ## View
 
