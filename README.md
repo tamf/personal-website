@@ -2,6 +2,8 @@
 
 This is a simple, static, personal website I made which mostly serves as a resume. 
 
+![image info](website.png)
+
 ## View
 
 You can view this live at [fabiantam.com](https://fabiantam.com/)
